@@ -7,8 +7,8 @@ $packageArgs = @{
   
   fileType               = 'msi'
  
-  url64                  = 'https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.0.5/Nextcloud.Talk-windows-x64.msi'
-  checksum64             = '4e19010aa2aa7a4d35e689f0c0b6bb4cd5cdaede4fd2f26b9ce1fb5f6dcd4cb4'
+  url64                  = 'https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.0.6/Nextcloud.Talk-windows-x64.msi'
+  checksum64             = '341ac11d4162e3eb9bdd992286ac08f751429cfe4bfd7f5fa7bddd42c58566bb'
   checksumType64         = 'sha256'
   silentArgs             = '/quiet /norestart INSTALLLEVEL=1'
   validExitCodes         = @(0)
