@@ -1,6 +1,6 @@
 Import-Module au
 
-$change_log_url = 'https://openvpn.net/vpn-server-resources/openvpn-connect-for-windows-change-log'
+$change_log_url = 'https://openvpn.net/connect-docs/windows-release-notes.html'
 $url_part1 = 'https://swupdate.openvpn.net/downloads/connect/openvpn-connect-'
 $url_part3_32 = '_signed_x86.msi'
 $url_part3_64 = '_signed.msi'
