@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>comet-browser</id>
+    <version>145.0.7632.899</version>
+    <title>Comet Browser</title>
+    <authors>Perplexity</authors>
+    <owners>markt.de</owners>
+    <projectUrl>https://www.perplexity.ai/comet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.perplexity.ai/hub/legal/comet-terms-of-service</licenseUrl>
+    <description>Comet browser by Perplexity is the AI browser.</description>
+    <summary>Comet browser by Perplexity is the AI browser that acts as a personal assistant. Automate tasks, research the web, organize your email, and more with Comet.</summary>
+    <releaseNotes>https://www.perplexity.ai/changelog</releaseNotes>
+    <copyright>©perplexity</copyright>
+    <packageSourceUrl>https://github.com/markt-de/au-packages</packageSourceUrl>
+    <tags>comet browser ai llm</tags>
+    <docsUrl>https://www.perplexity.ai/comet/resources</docsUrl>
+    <iconUrl>https://cdn.statically.io/gh/markt-de/au-packages@master/icons/comet-browser-icon.png</iconUrl>
+  </metadata>
+</package>
