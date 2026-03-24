@@ -16,7 +16,7 @@
     <copyright>Nextcloud GmbH</copyright>
     <tags>nextcloud talk videocall</tags>
     <projectSourceUrl>https://github.com/nextcloud/talk-desktop</projectSourceUrl>
-    <packageSourceUrl>https://github.com/jan-win1993/au-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/markt-de/au-packages</packageSourceUrl>
     <docsUrl>https://docs.nextcloud.com/server/latest/user_manual/en/talk/index.html</docsUrl>
   </metadata>
   <files>
