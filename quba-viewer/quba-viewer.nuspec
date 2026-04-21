@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>quba-viewer</id>
+    <version>1.5.0</version>
+    <title>Quba-Viewer</title>
+    <authors>Jochen Staerk</authors>
+    <owners>markt.de</owners>
+    <projectUrl>https://github.com/ZUGFeRD/quba-viewer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/ZUGFeRD/quba-viewer/blob/master/LICENSE</licenseUrl>
+    <description>Quba-Viewer is a cross platform open source application to display structured (i.e., XML) and hybrid (Factur-X/ZUGFeRD PDF) electronic invoices.</description>
+    <summary>Quba-Viewer is a cross platform open source application to display structured (i.e., XML) and hybrid (Factur-X/ZUGFeRD PDF) electronic invoices.
+Documentation-wise there is a doc RE Architecture, Development, Debugging and testing in general and some Electron and E-Invoice peculiarities like interprocess (IPC) communication, XSLT and codelists in particular.</summary>
+    <releaseNotes>https://github.com/ZUGFeRD/quba-viewer/releases</releaseNotes>
+    <copyright>2021 Jochen Staerk</copyright>
+    <packageSourceUrl>https://github.com/markt-de/au-packages</packageSourceUrl>
+    <tags>quba-viewer e-invoice invoice zugferd xml factur-x</tags>
+    <docsUrl>https://github.com/ZUGFeRD/quba-viewer/tree/master/doc</docsUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/ZUGFeRD/quba-viewer@master/assets/img/logo_small_icon_only.png</iconUrl>
+  </metadata>
+</package>
