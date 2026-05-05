@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>openvox-agent</id>
+    <version>8.26.2</version>
+    <title>Openvox Agent</title>
+    <authors>OpenVoxProject</authors>
+    <owners>markt.de</owners>
+    <projectUrl>https://voxpupuli.org/openvox</projectUrl>
+    <packageSourceUrl>https://github.com/markt-de/au-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/OpenVoxProject/openvox</projectSourceUrl>
+    <docsUrl>https://voxpupuli.org/openvox/quickstart/</docsUrl>
+    <licenseUrl>https://github.com/OpenVoxProject/openvox/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+OpenVox is a community implementation of Puppet, an automated administrative engine for your Linux, Unix, and Windows systems, designed to perform administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
+
+### Install Options
+
+You can pass installArgs to Chocolatey for several properties.
+You would pass through the arguments to the installer using 'installArgs'. Here is an example of changing the location of the OpenVox Server:
+
+`-installArgs '"PUPPET_SERVER=openvox.fqdn.com"'`
+
+**Please Note**: This is an automatically updated package. If you find it is
+out of date by more than a day or two, please contact the maintainer(s) and
+let them know the package is no longer updating correctly.
+    </description>
+    <summary>OpenVox is a community implementation of Puppet, an automated administrative engine for your Linux, Unix, and Windows systems, designed to perform administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.</summary>
+    <releaseNotes>https://github.com/OpenVoxProject/openvox/blob/main/CHANGELOG.md</releaseNotes>
+    <copyright>Vox Pupuli</copyright>
+    <tags>openvox configuration management infrastructure automation facter hiera</tags>
+    <iconUrl>https://cdn.jsdelivr.net/gh/OpenVoxProject/openvox@main/packaging/resources/windows/wix/icon/voxpupuli.ico></iconUrl>
+  </metadata>
+</package>
