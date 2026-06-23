@@ -32,4 +32,7 @@ let them know the package is no longer updating correctly.
     <tags>openvox configuration management infrastructure automation facter hiera</tags>
     <iconUrl>https://cdn.jsdelivr.net/gh/OpenVoxProject/openvox@main/packaging/resources/windows/wix/icon/voxpupuli.ico></iconUrl>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

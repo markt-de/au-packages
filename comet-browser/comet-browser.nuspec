@@ -18,4 +18,7 @@
     <docsUrl>https://www.perplexity.ai/comet/resources</docsUrl>
     <iconUrl>https://cdn.statically.io/gh/markt-de/au-packages@master/icons/comet-browser-icon.png</iconUrl>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

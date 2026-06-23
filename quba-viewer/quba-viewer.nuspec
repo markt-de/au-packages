@@ -19,4 +19,7 @@ Documentation-wise there is a doc RE Architecture, Development, Debugging and te
     <docsUrl>https://github.com/ZUGFeRD/quba-viewer/tree/master/doc</docsUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/ZUGFeRD/quba-viewer@master/assets/img/logo_small_icon_only.png</iconUrl>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
